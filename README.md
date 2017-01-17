@@ -3,7 +3,7 @@
 ##This is a React.js project integrated with Firebase and uses React Animations.
 Visit a fictitious fish market and place an order. If you want sign-in and be a store manager.  Add, delete, modify your inventory.
 
-![](https://s25.postimg.org/k24imuo2n/ss_2015_08_17_at_4_57_01_PM.png)
+![](https://s25.postimg.org/j9y8074v3/hooked.png)
 
 Following technologies were used:
 <ul>
